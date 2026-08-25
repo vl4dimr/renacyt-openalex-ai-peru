@@ -1,0 +1,17 @@
+{
+  "autores_openalex_ia": 3546,
+  "emparejados": 856,
+  "por_confianza": {
+    "exacta": 341,
+    "media": 288,
+    "alta": 227
+  },
+  "no_emparejados": 2582,
+  "motivos_no_match": {
+    "sin_candidato": 2387,
+    "ambiguo": 121,
+    "nombre_insuficiente": 74
+  },
+  "tasa_match_pct": 24.1,
+  "nota": "Autores OpenAlex sin par en RENACYT incluyen: estudiantes/tesistas no registrados, coautores extranjeros con afiliacion temporal peruana, y variantes de nombre no resueltas."
+}

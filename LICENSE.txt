@@ -1,0 +1,8 @@
+Code (scripts/, main.py): MIT License. Copyright (c) 2026 [authors].
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software, to deal in the Software without restriction. THE SOFTWARE IS
+PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Derived data and outputs: Creative Commons Attribution 4.0 (CC BY 4.0).
+RENACYT source data: Open Data Commons Attribution, (c) CONCYTEC.
+OpenAlex-derived records: CC0.

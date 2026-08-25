@@ -1,0 +1,56 @@
+{
+  "title": "Replication package - The invisible majority: linking a national researcher registry to OpenAlex reveals Peru's uncertified artificial intelligence workforce",
+  "upload_type": "dataset",
+  "description": "Data and code to replicate the linkage of Peru's RENACYT researcher registry (11,757 researchers, May 2024) with OpenAlex AI and Computer Vision works (2015-2026), identifying 856 certified AI researchers. Seven-stage pipeline: harvest, cleaning, population extraction, three-tier name linkage, analysis, figures, and false-negative inspection.",
+  "creators": [
+    {
+      "name": "Mamani Calisaya, Milton Vladimir",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0000-0002-0676-0989"
+    },
+    {
+      "name": "Mendoza Mollocondo, Charles Ignacio",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0000-0002-4766-2701"
+    },
+    {
+      "name": "Espinoza Coaquira, Erardo",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0000-0002-6302-9498"
+    },
+    {
+      "name": "Pari Flores, Jesus",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0009-0004-8905-0019"
+    },
+    {
+      "name": "Ponce Umiña, Sandra Ines",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0009-0007-6296-4509"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "artificial intelligence",
+    "research workforce",
+    "RENACYT",
+    "OpenAlex",
+    "record linkage",
+    "Peru",
+    "scientometrics"
+  ],
+  "version": "1.0.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.datosabiertos.gob.pe/dataset/registro-nacional-de-investigadores-renacyt-consejo-nacional-de-ciencia-tecnologia-e-0",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://openalex.org",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ]
+}

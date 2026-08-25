@@ -1,0 +1,161 @@
+{
+  "correlacion_jerarquia_obras": {
+    "spearman_rho": 0.088,
+    "p": 0.00975,
+    "pearson_r": 0.138,
+    "p_pearson": 5.56e-05
+  },
+  "correlacion_jerarquia_citas": {
+    "spearman_rho": 0.13,
+    "p": 0.000149
+  },
+  "por_nivel": [
+    {
+      "nivel": "Distinguido",
+      "n": 19,
+      "obras_media": 2.26,
+      "obras_mediana": 2.0,
+      "citas_media": 21.95
+    },
+    {
+      "nivel": "I",
+      "n": 19,
+      "obras_media": 3.26,
+      "obras_mediana": 2.0,
+      "citas_media": 22.79
+    },
+    {
+      "nivel": "II",
+      "n": 49,
+      "obras_media": 2.45,
+      "obras_mediana": 1.0,
+      "citas_media": 109.78
+    },
+    {
+      "nivel": "III",
+      "n": 63,
+      "obras_media": 2.57,
+      "obras_mediana": 1.0,
+      "citas_media": 17.44
+    },
+    {
+      "nivel": "IV",
+      "n": 79,
+      "obras_media": 2.84,
+      "obras_mediana": 1.0,
+      "citas_media": 16.2
+    },
+    {
+      "nivel": "V",
+      "n": 170,
+      "obras_media": 2.19,
+      "obras_mediana": 1.0,
+      "citas_media": 8.52
+    },
+    {
+      "nivel": "VI",
+      "n": 176,
+      "obras_media": 1.88,
+      "obras_mediana": 1.0,
+      "citas_media": 6.07
+    },
+    {
+      "nivel": "VII",
+      "n": 278,
+      "obras_media": 1.78,
+      "obras_mediana": 1.0,
+      "citas_media": 8.06
+    }
+  ],
+  "por_macrozona": [
+    {
+      "macrozona": "Lima y Callao",
+      "n": 403,
+      "obras_media": 2.23,
+      "obras_total": 897,
+      "citas_media": 22.35
+    },
+    {
+      "macrozona": "Otras regiones",
+      "n": 329,
+      "obras_media": 2.07,
+      "obras_total": 682,
+      "citas_media": 9.63
+    },
+    {
+      "macrozona": "Sur andino (Altiplano)",
+      "n": 93,
+      "obras_media": 1.86,
+      "obras_total": 173,
+      "citas_media": 5.38
+    }
+  ],
+  "por_especialidad": [
+    {
+      "especialidad": "IA aplicada (otros dominios)",
+      "n": 351,
+      "obras_media": 1.87,
+      "citas_media": 9.33
+    },
+    {
+      "especialidad": "Visión computacional",
+      "n": 144,
+      "obras_media": 2.36,
+      "citas_media": 12.06
+    },
+    {
+      "especialidad": "IA en salud",
+      "n": 95,
+      "obras_media": 2.08,
+      "citas_media": 52.45
+    },
+    {
+      "especialidad": "Aprendizaje automático (general)",
+      "n": 70,
+      "obras_media": 2.36,
+      "citas_media": 13.54
+    },
+    {
+      "especialidad": "PLN (NLP)",
+      "n": 56,
+      "obras_media": 2.7,
+      "citas_media": 12.62
+    },
+    {
+      "especialidad": "Redes neuronales / Deep Learning",
+      "n": 42,
+      "obras_media": 1.79,
+      "citas_media": 13.57
+    },
+    {
+      "especialidad": "Robótica y control",
+      "n": 39,
+      "obras_media": 2.46,
+      "citas_media": 7.49
+    },
+    {
+      "especialidad": "IA en educación",
+      "n": 26,
+      "obras_media": 1.08,
+      "citas_media": 10.85
+    },
+    {
+      "especialidad": "Optimización y metaheurísticas",
+      "n": 17,
+      "obras_media": 2.0,
+      "citas_media": 6.24
+    },
+    {
+      "especialidad": "Web semántica y ontologías",
+      "n": 16,
+      "obras_media": 4.38,
+      "citas_media": 29.38
+    }
+  ],
+  "lima_vs_resto_mannwhitney": {
+    "U": 83344.0,
+    "p": 0.5751,
+    "mediana_lima": 1.0,
+    "mediana_resto": 1.0
+  }
+}

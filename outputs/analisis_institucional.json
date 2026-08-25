@@ -1,0 +1,158 @@
+{
+  "top15_instituciones": [
+    {
+      "institucion": "Pontificia Universidad Católica del Perú",
+      "n_investigadores": 78,
+      "obras_ia": 199,
+      "citas_ia": 5223,
+      "pct_niveles_altos": 34.6,
+      "obras_por_investigador": 2.55,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad Nacional de San Agustín de Arequipa",
+      "n_investigadores": 60,
+      "obras_ia": 142,
+      "citas_ia": 577,
+      "pct_niveles_altos": 23.3,
+      "obras_por_investigador": 2.37,
+      "sector": "Pública"
+    },
+    {
+      "institucion": "Universidad Nacional del Altiplano (Puno)",
+      "n_investigadores": 48,
+      "obras_ia": 87,
+      "citas_ia": 252,
+      "pct_niveles_altos": 22.9,
+      "obras_por_investigador": 1.81,
+      "sector": "Pública"
+    },
+    {
+      "institucion": "Universidad Nacional Mayor de San Marcos",
+      "n_investigadores": 40,
+      "obras_ia": 108,
+      "citas_ia": 627,
+      "pct_niveles_altos": 30.0,
+      "obras_por_investigador": 2.7,
+      "sector": "Pública"
+    },
+    {
+      "institucion": "Universidad Nacional de Ingeniería",
+      "n_investigadores": 37,
+      "obras_ia": 75,
+      "citas_ia": 276,
+      "pct_niveles_altos": 21.6,
+      "obras_por_investigador": 2.03,
+      "sector": "Pública"
+    },
+    {
+      "institucion": "Universidad César Vallejo",
+      "n_investigadores": 35,
+      "obras_ia": 46,
+      "citas_ia": 366,
+      "pct_niveles_altos": 20.0,
+      "obras_por_investigador": 1.31,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad Católica San Pablo",
+      "n_investigadores": 33,
+      "obras_ia": 137,
+      "citas_ia": 897,
+      "pct_niveles_altos": 15.2,
+      "obras_por_investigador": 4.15,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad Peruana de Ciencias Aplicadas",
+      "n_investigadores": 31,
+      "obras_ia": 112,
+      "citas_ia": 459,
+      "pct_niveles_altos": 22.6,
+      "obras_por_investigador": 3.61,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad Privada del Norte",
+      "n_investigadores": 22,
+      "obras_ia": 58,
+      "citas_ia": 441,
+      "pct_niveles_altos": 22.7,
+      "obras_por_investigador": 2.64,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad Tecnológica del Perú",
+      "n_investigadores": 22,
+      "obras_ia": 46,
+      "citas_ia": 113,
+      "pct_niveles_altos": 22.7,
+      "obras_por_investigador": 2.09,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad de Ingeniería y Tecnología",
+      "n_investigadores": 20,
+      "obras_ia": 40,
+      "citas_ia": 129,
+      "pct_niveles_altos": 25.0,
+      "obras_por_investigador": 2.0,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad Peruana Cayetano Heredia",
+      "n_investigadores": 18,
+      "obras_ia": 22,
+      "citas_ia": 386,
+      "pct_niveles_altos": 66.7,
+      "obras_por_investigador": 1.22,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad Continental",
+      "n_investigadores": 17,
+      "obras_ia": 28,
+      "citas_ia": 129,
+      "pct_niveles_altos": 17.6,
+      "obras_por_investigador": 1.65,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad San Ignacio de Loyola",
+      "n_investigadores": 14,
+      "obras_ia": 14,
+      "citas_ia": 297,
+      "pct_niveles_altos": 14.3,
+      "obras_por_investigador": 1.0,
+      "sector": "Privada"
+    },
+    {
+      "institucion": "Universidad Nacional del Callao",
+      "n_investigadores": 13,
+      "obras_ia": 17,
+      "citas_ia": 16,
+      "pct_niveles_altos": 7.7,
+      "obras_por_investigador": 1.31,
+      "sector": "Pública"
+    }
+  ],
+  "publico_vs_privado": {
+    "Privada": {
+      "n": 387,
+      "obras_ia": 877,
+      "pct_niveles_altos": 26.6
+    },
+    "Pública": {
+      "n": 356,
+      "obras_ia": 744,
+      "pct_niveles_altos": 26.7
+    }
+  },
+  "nota_unap": {
+    "institucion": "Universidad Nacional del Altiplano (Puno)",
+    "ranking_nacional": 3,
+    "n_investigadores": 48,
+    "obras_ia": 87,
+    "pct_niveles_altos": 22.9
+  }
+}

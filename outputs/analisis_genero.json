@@ -1,0 +1,28 @@
+{
+  "renacyt_total_pct_mujeres": 32.7,
+  "ia_pct_mujeres": 19.5,
+  "pct_mujeres_por_nivel_total": {
+    "Distinguido": 16.8,
+    "I": 20.0,
+    "II": 23.4,
+    "III": 29.1,
+    "IV": 30.6,
+    "V": 32.5,
+    "VI": 35.3,
+    "VII": 35.2
+  },
+  "pct_mujeres_por_nivel_ia": {
+    "Distinguido": 15.8,
+    "I": 10.5,
+    "II": 18.4,
+    "III": 15.9,
+    "IV": 13.9,
+    "V": 17.6,
+    "VI": 22.7,
+    "VII": 21.9
+  },
+  "obras_media_por_sexo_ia": {
+    "Femenino": 1.69,
+    "Masculino": 2.22
+  }
+}
